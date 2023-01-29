@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+.top{
+    text-align: center;
+    margin: auto;
+}
+
+.homeButton{
+    margin: auto;
+}
+
+.tracker{
+    width: 20rem;
+    height: 40rem;
+    padding: 2rem;
+    border-radius: 30px;
+    background-color: #bbbbbb;
+    margin: auto;
+}
+
+.yourBalance{
+    font-size: 1.5rem;
+    margin-bottom: 0rem;
+}
+
+.balance{
+    margin-top: 0rem;
+}
+
+.incomeExpense {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.btn{
+    padding: 0.5rem 6rem;
+    border-radius: 5px;
+    background-color: #322F47;
+    color: white;
+    margin: ;
+}
+
+.income{
+    border-right: 1px solid black;
+    padding-right: 3rem;
+}
+
+.moneyPlus{
+    color: springgreen;
+}
+
+.expense{
+    padding-left: 3rem;
+}
+
+.moneyMinus{
+    color: red;
+}
+
+.history{
+    border-bottom: 1px solid black;
+}
+
+.newTransaction{
+    border-bottom: 1px solid black;
+}
+
+.textBox{
+    width: 20rem;
+}
+
+.amountBox{
+    width: 20rem;
+}
